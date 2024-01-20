@@ -1,3 +1,2 @@
-# drzewo_ginealogiczne
+# Text Analyzer in flutter
 
-A new Flutter project.
