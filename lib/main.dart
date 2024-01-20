@@ -1,4 +1,4 @@
-import 'package:drzewo_ginealogiczne/logic.dart';
+import 'package:Text_Analyzer/logic.dart';
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
 
